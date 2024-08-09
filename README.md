@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @AtharvaEdlawar
+- 👋 Hi, I’m @AtharvaEdlawar and I am a full stack web developer
 - 👀 I’m interested in in web/app development 
-- 🌱 I’m currently learning java Script
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently looking for exciting job opportunities
 - 📫 How to reach me mail me at atharva89edlawar@gmail.com
 
 <!---
